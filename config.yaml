@@ -1,0 +1,4 @@
+model_name: "dbmdz/bert-large-cased-finetuned-conll03-english"
+input_folder: "./input"
+output_folder: "./output"
+device: "cpu"  
