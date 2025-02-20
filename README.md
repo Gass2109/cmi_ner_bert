@@ -1,4 +1,3 @@
-# financial_ner_poc
 # 🏦 Financial NER with BERT 🧠💰
 
 This project extracts named entities from text files using a pre-trained Named Entity Recognition (NER) model from Hugging Face. The extracted entities are saved as JSON files in the output folder. The aim of this code is to give an overview of how to download and run a general purpose NER model to extract named entities. 
